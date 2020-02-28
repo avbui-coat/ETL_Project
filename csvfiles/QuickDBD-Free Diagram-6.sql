@@ -13,10 +13,9 @@ CREATE TABLE "Case_country" (
 
 CREATE TABLE "TotalCase_location" (
     "Location_id" INT   NOT NULL,
-    "Confirmed" INT   NOT NULL,
-    "Deaths" INT   NOT NULL,
-    "Recovered" INT   NOT NULL,
-    "Latest_date" Date   NOT NULL
+    "total_confirmed" INT   NOT NULL,
+    "total_deaths" INT   NOT NULL,
+    "total_recovered" INT   NOT NULL
 );
 
 CREATE TABLE "Geography" (
@@ -41,8 +40,5 @@ CREATE TABLE "Case" (
 );
 
 ALTER TABLE "TotalCase_location" ADD CONSTRAINT "fk_TotalCase_location_Location_id" FOREIGN KEY("Location_id")
-REFERENCES "Geography" ("Location_id");
-
-ALTER TABLE "Case" ADD CONSTRAINT "fk_Case_Location_id" FOREIGN KEY("Location_id")
 REFERENCES "Geography" ("Location_id");
 

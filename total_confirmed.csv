@@ -1,0 +1,77 @@
+,Province/State,Country/Region,Lat,Long,2/20/20,Location_ID
+0,Anhui,Mainland China,31.82571,117.2264,987,1
+1,Beijing,Mainland China,40.18238,116.4142,395,2
+2,Chongqing,Mainland China,30.05718,107.874,567,3
+3,Fujian,Mainland China,26.07783,117.9895,293,4
+4,Gansu,Mainland China,36.0611,103.8343,91,5
+5,Guangdong,Mainland China,23.33841,113.422,1332,6
+6,Guangxi,Mainland China,23.82908,108.7881,245,7
+7,Guizhou,Mainland China,26.81536,106.8748,146,8
+8,Hainan,Mainland China,19.19673,109.7455,168,9
+9,Hebei,Mainland China,38.0428,114.5149,307,10
+10,Heilongjiang,Mainland China,47.862,127.7622,476,11
+11,Henan,Mainland China,33.882020000000004,113.614,1265,12
+12,Hubei,Mainland China,30.97564,112.2707,62442,13
+13,Hunan,Mainland China,27.61041,111.7088,1010,14
+14,Inner Mongolia,Mainland China,44.09448,113.9456,75,15
+15,Jiangsu,Mainland China,32.97027,119.464,631,16
+16,Jiangxi,Mainland China,27.61401,115.7221,934,17
+17,Jilin,Mainland China,43.66657,126.1917,91,18
+18,Liaoning,Mainland China,41.29284000000001,122.6086,121,19
+19,Ningxia,Mainland China,37.26923,106.1655,71,20
+20,Qinghai,Mainland China,35.65945,96.02564,18,21
+21,Shaanxi,Mainland China,35.19165,108.8701,245,22
+22,Shandong,Mainland China,36.34377,118.1529,546,23
+23,Shanghai,Mainland China,31.20327,121.4554,334,24
+24,Shanxi,Mainland China,37.57769,112.2922,132,25
+25,Sichuan,Mainland China,30.617140000000006,102.7103,520,26
+26,Tianjin,Mainland China,39.29362,117.333,131,27
+27,Tibet,Mainland China,30.1534,88.7879,1,28
+28,Xinjiang,Mainland China,41.11981,85.17822,76,29
+29,Yunnan,Mainland China,24.97411,101.4868,174,30
+30,Zhejiang,Mainland China,29.18251,120.0985,1175,31
+31,,Thailand,13.7563,100.5018,35,32
+32,,Japan,35.6762,139.6503,94,33
+33,,South Korea,37.5665,126.978,104,34
+34,Taiwan,Taiwan,23.6978,120.9605,24,35
+35,"Seattle, WA",US,47.7511,-120.74,1,36
+36,"Chicago, IL",US,40.6331,-89.3985,2,37
+37,"Tempe, AZ",US,34.0489,-111.094,1,38
+38,Macau,Macau,22.1987,113.5439,10,39
+39,Hong Kong,Hong Kong,22.3193,114.1694,68,40
+40,,Singapore,1.3521,103.8198,84,41
+41,,Vietnam,21.0278,105.8342,16,42
+42,,France,46.2276,2.2137,12,43
+43,,Nepal,28.3949,84.124,1,44
+44,,Malaysia,4.2105,101.9758,22,45
+45,"Toronto, ON",Canada,43.6532,-79.3832,2,46
+46,British Columbia,Canada,49.2827,-123.121,5,47
+47,"Orange, CA",US,33.7879,-117.8531,1,48
+48,"Los Angeles, CA",US,34.0522,-118.2437,1,49
+49,New South Wales,Australia,-33.8688,151.2093,4,50
+50,"Victoria, BC",Australia,-37.8136,144.9631,4,51
+51,Queensland,Australia,-27.4698,153.0251,5,52
+52,,Cambodia,12.5657,104.991,1,53
+53,,Sri Lanka,7.8731,80.7718,1,54
+54,,Germany,51.1657,10.4515,16,55
+55,,Finland,61.9241,25.7482,1,56
+56,,United Arab Emirates,23.4241,53.8478,9,57
+57,,Philippines,12.8797,121.774,3,58
+58,,India,20.5937,78.9629,3,59
+59,"London, ON",Canada,42.9849,-81.2453,1,60
+60,,Italy,41.8719,12.5674,3,61
+61,,UK,55.3781,-3.4360000000000004,9,62
+62,,Russia,61.524,105.3188,2,63
+63,,Sweden,60.1282,18.6435,1,64
+64,"Santa Clara, CA",US,37.3541,-121.9552,2,65
+65,,Spain,40.4637,-3.7492,2,66
+66,South Australia,Australia,-34.9285,138.6007,2,67
+67,"Boston, MA",US,42.3601,-71.0589,1,68
+68,"San Benito, CA",US,36.5761,-120.9876,2,69
+69,,Belgium,50.5039,4.4699,1,70
+70,"Madison, WI",US,43.0731,-89.4012,1,71
+71,Diamond Princess cruise ship,Others,35.4437,139.638,634,72
+72,"San Diego, CA",US,32.7157,-117.1611,2,73
+73,"San Antonio, TX",US,29.4241,-98.4936,1,74
+74,,Egypt,26.8206,30.8025,1,75
+75,,Iran,32.4279,53.688,5,76
